@@ -12,4 +12,3 @@ Este repositorio sirve para probar cosas
 
 # Muere Stann Lee
 El creador de **Marvel** Comics _fallecio_ el dia *12 de Noviembre de 2018*
->La Nación 
